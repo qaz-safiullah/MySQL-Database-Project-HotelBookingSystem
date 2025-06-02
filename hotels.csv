@@ -1,0 +1,101 @@
+hotel_id,name,location,star_rating,contact_email,contact_number
+1,Hotel Knox-Espinoza,North Evan,1,hotel1@example.com,300-725-1163x801
+2,Hotel Warner Ltd,East Michellefurt,2,hotel2@example.com,(200)140-2080
+3,Hotel Mcdonald LLC,Glennland,1,hotel3@example.com,001-912-696-1343
+4,Hotel Doyle-Ramirez,Lake Ronaldchester,5,hotel4@example.com,4037688640
+5,Hotel Wright Inc,,4,hotel5@example.com,001-008-687-3147x219
+6,"Hotel Little, Lewis and Wagner",,1,hotel6@example.com,(061)438-8440x55197
+7,"Hotel Curtis, Howard and Short",South Richardmouth,5,hotel7@example.com,(833)132-6376x535
+8,Hotel Palmer and Sons,South Markshire,5,hotel8@example.com,(033)930-6390
+9,"Hotel Jackson, Oconnor and Butler",Samuelhaven,5,hotel9@example.com,687-572-7157x66423
+10,"Hotel Schultz, Holmes and Garcia",North Phillip,4,hotel10@example.com,(058)031-8836x837
+11,Hotel Merritt-Kelley,New Catherine,1,hotel11@example.com,(648)855-5768
+12,Hotel Cox-Gaines,Lorimouth,2,hotel12@example.com,8125060816
+13,"Hotel Smith, Lucero and Johnson",Emmaborough,3,hotel13@example.com,001-130-489-2460x4945
+14,"Hotel Powers, Davis and Gutierrez",East Christinebury,2,hotel14@example.com,001-735-469-3899
+15,"Hotel Whitney, Crawford and Carlson",West Janice,3,hotel15@example.com,(938)709-7365
+16,Hotel Rogers PLC,New Jessica,4,hotel16@example.com,+1-984-492-0474x05128
+17,"Hotel Rose, Berry and Anderson",,3,hotel17@example.com,(160)281-7521
+18,Hotel Martinez-Chang,Port Paulfurt,1,hotel18@example.com,5489376888
+19,Hotel Mcdonald and Sons,North Jennifer,5,hotel19@example.com,747.694.1144
+20,"Hotel Mahoney, Gomez and Zimmerman",Lozanobury,4,hotel20@example.com,431-246-9277x7684
+21,"Hotel Cooper, Cruz and Harrison",,3,hotel21@example.com,863.340.8913
+22,Hotel Ramirez LLC,Toddport,5,hotel22@example.com,086-369-3276
+23,"Hotel Best, Fields and Cuevas",Meyerland,3,hotel23@example.com,001-373-725-2323
+24,Hotel Anderson LLC,West Margaret,1,hotel24@example.com,(771)883-9414
+25,"Hotel Johnson, Harris and Lopez",,2,hotel25@example.com,(819)180-9392
+26,"Hotel Brock, Lopez and Hammond",Jonesberg,1,hotel26@example.com,(310)466-6000x94787
+27,Hotel Smith-Jones,East Ashlee,1,hotel27@example.com,+1-923-514-2641x7797
+28,"Hotel Macias, Richard and Allen",Christophertown,4,hotel28@example.com,+1-805-638-4583
+29,Hotel Simmons Ltd,Rodriguezfort,3,hotel29@example.com,638.617.6523x4387
+30,Hotel Calderon Group,Lake Samanthafurt,3,hotel30@example.com,506.733.0239x1117
+31,Hotel Gallagher-Bailey,West Williamton,3,hotel31@example.com,3466109222
+32,"Hotel Martinez, Christensen and Park",Lake Charles,1,hotel32@example.com,474-584-7522
+33,Hotel Conner-Moore,New Bruce,2,hotel33@example.com,001-051-456-6733x18107
+34,Hotel Brown LLC,Lake Josephchester,2,hotel34@example.com,+1-232-033-5710x51843
+35,Hotel Walker LLC,New Autumnbury,4,hotel35@example.com,(177)013-0917x9197
+36,Hotel Johnston PLC,Ricebury,5,hotel36@example.com,(366)599-1023
+37,Hotel Nguyen and Sons,Roystad,3,hotel37@example.com,830-674-7248
+38,Hotel Mcneil-Adams,West Rebeccamouth,1,hotel38@example.com,027.580.5898x51626
+39,Hotel Davis-Shepherd,Lake Daniellebury,1,hotel39@example.com,001-463-137-1511
+40,"Hotel Anderson, Williams and Leblanc",Lake Cynthia,4,hotel40@example.com,611-651-1343x266
+41,Hotel Foster PLC,South Christinaton,2,hotel41@example.com,5700436840
+42,Hotel Cruz Group,Monicastad,5,hotel42@example.com,001-715-189-5542
+43,"Hotel Wood, Miller and Solomon",East Anthony,3,hotel43@example.com,(299)987-6272x3556
+44,Hotel Howard-Webb,North Patrickview,4,hotel44@example.com,001-662-085-3729x180
+45,"Hotel Butler, White and Hamilton",Lake Brenda,4,hotel45@example.com,(367)555-1222
+46,Hotel Mason-Weeks,New Arthurton,2,hotel46@example.com,(141)142-8979
+47,Hotel Mendez and Sons,South Austin,5,hotel47@example.com,+1-144-080-0170x195
+48,"Hotel Good, Garcia and Duarte",Timothyhaven,5,hotel48@example.com,138.802.1271
+49,"Hotel Cooper, Parker and Wood",Hicksmouth,5,hotel49@example.com,379-843-3719
+50,"Hotel Wolfe, Ferguson and Campos",Jamesberg,2,hotel50@example.com,266-362-7806
+51,Hotel Brown-Davis,East Christopher,2,hotel51@example.com,(658)932-4903x6095
+52,"Hotel Bowers, Johnson and Greene",Adrianamouth,1,hotel52@example.com,308.006.0192x9142
+53,"Hotel Warner, Harvey and Miller",New Reneeside,1,hotel53@example.com,020.254.4536
+54,Hotel Zhang-Garcia,Erinfort,2,hotel54@example.com,964.543.4527
+55,Hotel Nunez-Kane,West Jesus,4,hotel55@example.com,(031)578-6580
+56,Hotel Miller-Johnson,North Roberttown,4,hotel56@example.com,+1-947-168-1586
+57,Hotel Mitchell-Rodriguez,Wanghaven,4,hotel57@example.com,+1-846-565-1890
+58,Hotel Wright Ltd,Caseville,5,hotel58@example.com,+1-606-380-4805x00814
+59,Hotel Tran Group,North Bonnieside,1,hotel59@example.com,+1-349-072-6159x636
+60,"Hotel Greer, King and Haynes",Virginiastad,1,hotel60@example.com,276.364.2498x955
+61,Hotel Hanson-King,East Oscar,5,hotel61@example.com,001-255-125-1291x9687
+62,Hotel Miller Inc,East John,3,hotel62@example.com,2503036274
+63,"Hotel Wagner, Martinez and Robinson",Burtonfort,4,hotel63@example.com,597-610-3005
+64,Hotel Hill-Anderson,Jenniferborough,1,hotel64@example.com,001-781-121-1678x2002
+65,"Hotel Mckinney, Oconnell and Shaw",Brownshire,3,hotel65@example.com,001-027-788-0009x887
+66,Hotel Underwood LLC,Torresside,2,hotel66@example.com,440.731.8861x7853
+67,Hotel Torres-Nichols,Gabrielaburgh,1,hotel67@example.com,(875)408-1435
+68,Hotel Sutton PLC,New Scottton,3,hotel68@example.com,924.725.1601x1496
+69,Hotel Mathis Group,North Autumnfurt,5,hotel69@example.com,304-727-3249x587
+70,"Hotel Owens, Savage and Wong",Harristown,2,hotel70@example.com,061.077.0546
+71,Hotel Thomas Group,West Ericland,2,hotel71@example.com,857.220.1718
+72,Hotel Villarreal-Horn,Ashleytown,5,hotel72@example.com,(859)174-6500x92542
+73,Hotel Flores PLC,Christinashire,5,hotel73@example.com,682-236-7497x14942
+74,"Hotel Carter, Morton and Olsen",Johnland,1,hotel74@example.com,256.035.6804x37759
+75,Hotel Douglas-White,Andrewsmouth,3,hotel75@example.com,001-022-225-5752x296
+76,"Hotel Lee, Smith and Henderson",North Suzanne,3,hotel76@example.com,577.186.4314
+77,Hotel Morton-Adams,North Austintown,2,hotel77@example.com,(074)838-3223x143
+78,"Hotel Bradley, Davis and Mcclure",West Phillipberg,1,hotel78@example.com,734.672.6407
+79,Hotel Blair and Sons,,4,hotel79@example.com,960-471-6312x6767
+80,Hotel Young Inc,West Robert,5,hotel80@example.com,278-830-7416
+81,Hotel Deleon-Fuller,South Brittany,2,hotel81@example.com,302.206.7390x65498
+82,"Hotel Kemp, Moss and Wright",West Adamstad,5,hotel82@example.com,0581588899
+83,Hotel Diaz Ltd,Phillipsfort,5,hotel83@example.com,001-651-683-4260x9163
+84,Hotel Hutchinson-Jennings,Marshtown,4,hotel84@example.com,019.771.8182
+85,"Hotel Peterson, Hahn and Peterson",Jessemouth,5,hotel85@example.com,020.608.1352x5702
+86,Hotel Aguilar-Johnson,North Jennifer,2,hotel86@example.com,(024)468-0745
+87,"Hotel Mcclure, Johnson and Oconnor",Andrewfort,4,hotel87@example.com,392.847.9311x19494
+88,Hotel Schultz Group,Joshuamouth,3,hotel88@example.com,253-883-3651
+89,Hotel Hull and Sons,Henryfurt,5,hotel89@example.com,+1-063-813-4302x33188
+90,Hotel Leonard-Taylor,Randyborough,2,hotel90@example.com,001-513-548-1708
+91,Hotel Oliver LLC,West Kristie,3,hotel91@example.com,498.125.5715x75036
+92,"Hotel Cook, Rogers and Allen",,5,hotel92@example.com,610.057.2268x605
+93,Hotel Barr-Moore,Whitebury,2,hotel93@example.com,001-896-147-3960x2575
+94,"Hotel Campbell, Anderson and Nelson",,1,hotel94@example.com,4804525727
+95,"Hotel Mack, Wilkins and Carrillo",Vanessashire,1,hotel95@example.com,(047)149-7862x737
+96,Hotel Castillo Group,New Alyssamouth,1,hotel96@example.com,+1-574-314-3556x24439
+97,"Hotel Elliott, Klein and Norman",Port Nicole,3,hotel97@example.com,+1-354-569-8939x7610
+98,Hotel Robertson Inc,Port Catherine,2,hotel98@example.com,842.936.1983
+99,"Hotel Schwartz, Waters and Savage",South Joannehaven,5,hotel99@example.com,(150)035-3305
+100,"Hotel Hamilton, Wright and Jenkins",Carloshaven,2,hotel100@example.com,+1-803-328-6667x16808
